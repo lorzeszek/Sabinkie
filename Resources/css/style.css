@@ -31,10 +31,11 @@ html {
 header {
 	
 	background-image: linear-gradient(rgba(83, 83, 83, 0.28), rgba(0, 0, 0, 0)),url(img/banter-snaps-387953-unsplash.jpg);
-	background-position: bottom;
+	background-position: top;
 	background-size: 100%;
 	background-attachment: fixed;
 	height: 100vh;
+	background-repeat: no-repeat;
 }
 
 
